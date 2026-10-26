@@ -105,6 +105,12 @@ AI-powered image upscaling tool that improves image resolution and quality.
 
 # Online AI Photo Editors
 
+### PromptImage
+
+🔗 https://promptimage.cloud
+
+Free AI image & video studio with a prompt library. Freemium signup credits, no credit card required.
+
 ### Pixlr
 
 🔗 https://pixlr.com
